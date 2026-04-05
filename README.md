@@ -81,7 +81,7 @@ I am a **Full-Stack Developer** dedicated to crafting high-performance, real-tim
 ### 🐍 Activity Snake
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?github_user=mrvinsky&color_snake=%239D4EDD&color_dots=%23161b22%2C%2339d353%2C%2326a641%2C%23006d21&theme=dark" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/mrvinsky/mrvinsky/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
@@ -89,10 +89,10 @@ I am a **Full-Stack Developer** dedicated to crafting high-performance, real-tim
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-besiralkya@gmail.com">
+  <a href="mailto:besiralkya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/axlbesiralkaya/)">
+  <a href="https://www.linkedin.com/in/axlbesiralkaya/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
