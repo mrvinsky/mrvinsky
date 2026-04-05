@@ -76,20 +76,7 @@ I am a **Full-Stack Developer** dedicated to crafting high-performance, real-tim
 
 ---
 
-### 📊 Dynamic Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvinsky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvinsky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrvinsky&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
 
 ### 🐍 Activity Snake
 
@@ -102,10 +89,10 @@ I am a **Full-Stack Developer** dedicated to crafting high-performance, real-tim
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-besiralkya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/axlbesiralkaya/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
