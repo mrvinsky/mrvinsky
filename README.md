@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mrvinsky/mrvinsky/main/mrvinsky_github_banner.png" alt="mrvinsky's Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mrvinsky/mrvinsky/main/ghh.png" alt="mrvinsky's Banner" width="100%">
 </h1>
 
 <p align="center">
